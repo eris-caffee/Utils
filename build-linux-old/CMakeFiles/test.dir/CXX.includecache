@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utils.h
+string
+-
+iostream
+-
+
+/vol0/eris/programming/projects/utils/src/test.cpp
+iostream
+-
+limits
+-
+utils.h
+/vol0/eris/programming/projects/utils/src/utils.h
+

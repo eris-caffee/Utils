@@ -1,0 +1,2 @@
+C:/MinGW/bin/ar.exe cr libutils.a  CMakeFiles/utils-static.dir/src/utils.cpp.obj
+C:/MinGW/bin/ranlib.exe libutils.a

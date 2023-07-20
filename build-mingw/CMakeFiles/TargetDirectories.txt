@@ -1,0 +1,3 @@
+Z:/programming/projects/utils/build-mingw/CMakeFiles/test.dir
+Z:/programming/projects/utils/build-mingw/CMakeFiles/utils.dir
+Z:/programming/projects/utils/build-mingw/CMakeFiles/utils-static.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g  -fPIC CMakeFiles/test.dir/src/test.cpp.o  -o test -rdynamic libutils.so -Wl,-rpath,/vol0/eris/programming/projects/utils/build 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utils.h
+string
+-
+iostream
+-
+
+Z:/programming/projects/utils/src/utils.cpp
+algorithm
+-
+cctype
+-
+iostream
+-
+string
+-
+sstream
+-
+utils.h
+Z:/programming/projects/utils/src/utils.h
+
